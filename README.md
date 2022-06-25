@@ -10,17 +10,17 @@
 
 </br>
 
-<p align = "center">
+<div align = "center">
     <img style = "width: 25em;" src = "OhExecute.png">
-</p>
+</div>
 
 <div align = "center">
 
-<p>
+<div>
 
 ![](https://komarev.com/ghpvc/?username=Criosyom&color=FF0000&label=NUMBER+OF+MORTALS+THAT+HAD+LAID+THEIR+EYES+ON+MY+DOMAIN:&style=flat)
 
-</p>
+</div>
 
 </div>
 
